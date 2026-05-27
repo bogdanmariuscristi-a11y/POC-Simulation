@@ -1,0 +1,593 @@
+input_company_name,company_name,match_confidence_score,status,website_domain,main_country
+24-SEVEN MEDIA NETWORK (PRIVATE) LIMITED,EmerioSoft,34.78260869565217,Reject,emeriosoft.com,Pakistan
+2OPERATE A/S,2operate,100.0,Auto-Accepted,2operate.com,Denmark
+3 STEP IT A/S,3 Step IT A/S.,100.0,Auto-Accepted,3stepit.dk,Denmark
+3 STEP IT AS,3 Step IT A/S.,60.0,Manual-Review,3stepit.dk,Denmark
+3 Step IT Sweden AB,Basta Horlurarna,75.0,Manual-Review,bastahorlurarna.se,Sweden
+"3DEGREES GROUP, INC.",3Degrees Inc.,72.72727272727273,Manual-Review,3degreesinc.com,United States
+3Step IT Group Oy,3Step IT Group,90.32258064516128,Auto-Accepted,3stepit.com,Finland
+A.T. KEARNEY AB,AT RÖRSERVICE,62.06896551724138,Manual-Review,vvshagersten.se,Sweden
+A. T. KEARNEY PTE. LTD,ATKEARNEY,37.5,Reject,atkearney.top,
+AALBORG CITY,AALBORG CITY,100.0,Auto-Accepted,aalborgcity.dk,Denmark
+ACCENTURE SERVICES AS,Accenture Norge,66.66666666666666,Manual-Review,accenture.no,Norway
+Accutics ApS,Accutics,100.0,Auto-Accepted,accutics.com,Denmark
+ACOME,ACOME Company a Cooperative,100.0,Auto-Accepted,acome.com,France
+"ACOME XINTAI CABLES CO., LTD.",Acome Xintai Cables Co. Ltd.,100.0,Auto-Accepted,,China
+ADAPT A/S,Adapt,100.0,Auto-Accepted,a-dapt.dk,Denmark
+ADECCO A/S,Adecco Fredericia,62.17391304347826,Manual-Review,adecco.dk,Denmark
+ADECCO PERSONNEL PTE LTD,Adecco Singapore,100.0,Auto-Accepted,adecco.com.sg,Singapore
+ADOBE SYSTEMS SOFTWARE IRELAND LIMITED,Adobe Systems Software Ireland,100.0,Auto-Accepted,,Ireland
+ADVANCED DIGITAL BROADCAST SA,Advanced Digital Broadcast Holdings SA.,86.56716417910447,Manual-Review,adbholdings.com,Switzerland
+Advanced Network Solutions Sdn Bhd,Advanced Network Solutions Sdn. Bhd.,100.0,Auto-Accepted,,Malaysia
+ADVANSIA AS,Advansia AS,100.0,Auto-Accepted,afadvansia-prosjektweb.com,Norway
+AEGER GROUP AS,Aeger Group,100.0,Auto-Accepted,aeger.no,Norway
+AFFIRMED NETWORKS INC,Affirmed Networks,100.0,Auto-Accepted,affirmednetworks.com,United States
+Agg Power Technology (Fuzhou) Co Ltd.,AGG Power,50.0,Manual-Review,aggpower.cn,China
+AIA Berhad,AIA PRS,58.82352941176471,Manual-Review,aia-prs.com.my,Malaysia
+AIG EUROPE S.A. NUF,AIG Norge,86.66666666666667,Manual-Review,aig.no,Norway
+AKTIESELSKABET RODOVRE CENTRUM,Aktieselskabet Rødovre Centrum,96.66666666666667,Auto-Accepted,,Denmark
+ALLEN OVERY SHEARMAN STERLING LLP,A&O Shearman,100.0,Auto-Accepted,aoshearman.com,United Kingdom
+ALTAIR GLOBAL RELOCATION SINGAPORE PTE. LTD.,Altair Aesthetic,51.724137931034484,Manual-Review,altairaesthetic.com,Singapore
+"AMAZON WEB SERVICES, INC.",P o STER ART,90.47619047619048,Auto-Accepted,posterart.art,United States
+AMAZON WEB SERVICES EMEA SARL,TKBEL,98.24561403508771,Auto-Accepted,tkbel.fr,Luxembourg
+"AMAZON WEB SERVICES EMEA SARL, NORWEGIAN BRANCH",Amazon E Store,43.333333333333336,Reject,amazonestore.pk,Norway
+AMDOCS DEVELOPMENT LIMITED,Amdocs,25.0,Reject,amdocs.com,United States
+"American Express Europe Denmark, filial af American Express Europe S.A., Spanien",American Steakhouse,23.157894736842106,Reject,butcher.dk,Denmark
+American Express Europe SA (Norway),American Express Company AS,77.19298245614034,Manual-Review,americanexpress.no,Norway
+ANALYSYS MASON AS,Analysys Mason,60.0,Manual-Review,analysysmason.com,Italy
+MASON SITE FINDER LIMITED,R Mason Site Services Ltd.,68.42105263157895,Manual-Review,,United Kingdom
+ANDCO A/S,Andco A/S.,100.0,Auto-Accepted,andco.dk,Denmark
+Annalect Denmark A/S,Annalect,66.66666666666666,Manual-Review,annalect-data.info,Denmark
+Anne Mette Lund,Anne Mette Høy,75.86206896551724,Manual-Review,mindre-stress.dk,Denmark
+ANRITSU A/S,Anritsu,60.0,Manual-Review,anritsu.com,Japan
+Aon Assessment Denmark A/S,Aon Invest A/S.,43.75,Reject,,Denmark
+AON NORWAY AS,Aon Norway,100.0,Auto-Accepted,,Norway
+APPDYNAMICS UK LTD,AppDynamic,83.33333333333334,Manual-Review,stluciakitefiesta.com,United Kingdom
+APPLE DISTRIBUTION INTERNATIONAL LIMITED,Apple Distribution International,100.0,Auto-Accepted,,Ireland
+APPLE DISTRIBUTION INTERNATIONAL LIMITED,Apple Distribution International,100.0,Auto-Accepted,,Ireland
+Apple Malaysia Sdn. Bhd.,Apple Malaysia Sdn Bhd.,100.0,Auto-Accepted,,Malaysia
+Apple South Asia (Thailand) Co Ltd,South East Asia Sails,60.86956521739131,Manual-Review,southeastasiasails.com,Thailand
+ARELION NORWAY AS,Arelion Austria GmbH.,34.48275862068966,Reject,arelion.at,Austria
+Arelion AB,Arelion,82.35294117647058,Manual-Review,arelion.com,Sweden
+ARY COMMUNICATIONS LIMITED,Unisoft Computer & Communication,62.745098039215684,Manual-Review,unisoftcc.com,Pakistan
+"Ascio Technologies, Corp. Danmark - Filial af Ascio Technologies Corp. Canada",Ascio Technologies,43.373493975903614,Reject,ascio.com,Denmark
+ASIAINFO DENMARK ApS,Drys Denmark,72.22222222222221,Manual-Review,drysdenmark.dk,Denmark
+Atea A/S,Atea Danmark,60.0,Manual-Review,atea.dk,Denmark
+ATEA AS,Atea,100.0,Auto-Accepted,bajaz.no,Norway
+Atea Sverige AB,Voister,100.0,Auto-Accepted,voister.se,Sweden
+NP Investment A/S,Np International A/S.,55.172413793103445,Manual-Review,,Denmark
+ATREBO SL,Trebolis,100.0,Auto-Accepted,trebolis.com,Spain
+AV CENTER AALBORG ApS,AV CENTER,60.0,Manual-Review,avcenter.dk,Denmark
+aviat networks bangladesh ltd.,Aviat Electric Store,48.888888888888886,Reject,,Bangladesh
+Aviat Networks Japan LLC,Aviat Networks,36.84210526315789,Reject,atgnation.com,United States
+AWAN DISTRIBUTION FZC,Max Lead Advertising,63.49206349206349,Manual-Review,maxleadadvertising.com,United Arab Emirates
+Axteq ApS,Axteq,100.0,Auto-Accepted,axteq.dk,Denmark
+Az-Technology Sdn. Bhd.,AZ Technology,100.0,Auto-Accepted,az-tech.my,Malaysia
+BAE SYSTEMS APPLIED INTELLIGENCE (INTERNATIONAL) LIMITED,BAE Systems Applied Intelligence,82.05128205128204,Manual-Review,baesystemsdetica.com,United Kingdom
+BASICO P/S,Basico P/S.,100.0,Auto-Accepted,,Denmark
+"BB CONNECT CO.,LTD.",BB Connect LATAM,40.625,Reject,bbconnectlatam.com,
+Bb Technology Co Ltd,BBtec,100.0,Auto-Accepted,bbtec.co.th,Thailand
+BCD TRAVEL ASIA PACIFIC PTE. LTD.,BCD Engineering,43.47826086956522,Reject,bcdglobal.com.sg,Singapore
+BCD N.V.,BCD,66.66666666666666,Manual-Review,bcdtravel.com,Netherlands
+BEAT A/S,Beat,100.0,Auto-Accepted,beat.dk,Denmark
+"Beijing Dynamic Power Co., Ltd",Beijing Dynamic Power Co. Ltd.,100.0,Auto-Accepted,xaqylm.com,China
+BIGID INC.,BigID,100.0,Auto-Accepted,bigid.me,United States
+Binkies Holding B.V.,Binkies,71.42857142857143,Manual-Review,binkies.nl,Netherlands
+BLACKWOOD SEVEN A/S,Blackwood Seven,100.0,Auto-Accepted,blackwoodseven.com,Denmark
+Blom Soefeldt - Erhvervspsykologisk radgivning,Blom Søefeldt - Erhvervspsykologisk Rådgivning,95.55555555555556,Auto-Accepted,blomsoefeldt.dk,Denmark
+BOOST AI AS,Boost,76.92307692307693,Manual-Review,boost.ai,Norway
+Bording Danmark A/S,Bording Central,100.0,Auto-Accepted,bordingcentral.dk,Denmark
+Braathens Regional Airways AB,BRAATHENS REGIONAL AIRWAYS AB.,100.0,Auto-Accepted,,Sweden
+BRAINCHILD COMMUNICATIONS PAKISTAN (PVT.) LIMITED,Brainchild Communications Pakistan,100.0,Auto-Accepted,brainchild.net,Pakistan
+Brobizz A/S,Brobizz,100.0,Auto-Accepted,brobizz.com,Denmark
+BUNDGAARD KOLETEKNIK. VEJLE A/S,Bundgaard Køleteknik A/S.,82.6086956521739,Manual-Review,,Denmark
+Bynder Holding B.V.,Bynder,52.17391304347826,Manual-Review,bynder.com,Netherlands
+C&W Services (S) Pte. Ltd.,CW Aero Services,81.08108108108108,Manual-Review,cwaeroservices.com,Singapore
+CAMPANA GROUP PTE. LTD.,Campana Group,86.66666666666667,Manual-Review,campanaworks.com,Singapore
+CBRE AS,CBRE Norway,63.333333333333336,Manual-Review,cbre.no,Norway
+CBRE Teknisk Servicepartner A/S,CBRE Teknisk servicepartner,100.0,Auto-Accepted,cbre-tekniskservicepartner.dk,Denmark
+CELLUSYS LIMITED,Cellusys,100.0,Auto-Accepted,cellusys.com,Ireland
+CENTERFORENINGEN FISKETORVET SHOPPING CENTER F.M.B.A.,Centerforeningen Borgergården,58.97435897435898,Manual-Review,,Denmark
+CETIN Hungary Zrt.,CETIN Hungary,100.0,Auto-Accepted,cetin.hu,Hungary
+CHINA TELECOM GLOBAL LTD,China Telecom Global,100.0,Auto-Accepted,chinatelecomglobal.com,Hong Kong
+CHINA UNICOM (SINGAPORE) OPERATIONS PTE. LTD.,China Unicom Singapore Operations Limited,94.28571428571428,Auto-Accepted,cuniq.sg,Singapore
+CHUBB GLOBAL RISK ADVISORS PTE. LTD.,Chubb Global Risk Advisors,100.0,Auto-Accepted,cgra.com.sg,Singapore
+CIBICOM SERVICES A/S,Cibicom,76.19047619047619,Manual-Review,cibicom.com,Denmark
+CIENA LIMITED,Ciena,100.0,Auto-Accepted,ciena.in,United Kingdom
+CISCO INTERNATIONAL LIMITED,Cisco Systems London,51.28205128205128,Manual-Review,cisco.co.uk,United Kingdom
+CISCO NORWAY AS,Cisco Systems Norway AS,75.0,Manual-Review,,Norway
+CITERO AS,Citero,100.0,Auto-Accepted,citero.no,Norway
+"CLOUDERA, INC.",Cloudera,100.0,Auto-Accepted,cloudera.com,United States
+Comba Technologies Sdn. Bhd.,OM Technologies Sdn.Bhd.,91.66666666666666,Auto-Accepted,,Malaysia
+COMBA TELECOM LIMITED,Comba Telecom,100.0,Auto-Accepted,comba-telecom.com,Hong Kong
+Comengineering Sdn. Bhd.,COMENGINEERING SDN BHD.,100.0,Auto-Accepted,,Malaysia
+COMMSCOPE SOLUTIONS SINGAPORE PTE. LTD.,HOMENET,87.09677419354838,Manual-Review,homenet.sg,Singapore
+CommScope Technologies AG,Commscope Technologies Ag,100.0,Auto-Accepted,,Switzerland
+COMMSCOPE TECHNOLOGIES LLC,CommScope,51.42857142857142,Manual-Review,,United States
+COMVIVA TECHNOLOGIES LIMITED,Comviva Technologies,100.0,Auto-Accepted,comviva.com,India
+CONSCIA DANMARK A/S,Conscia Danmark A/S.,100.0,Auto-Accepted,laugesen.io,Denmark
+CONTROL RISKS GROUP LIMITED,Control risks,81.25,Manual-Review,controlrisks.com,United Kingdom
+CORPORATE COMMUNICATIONS AS,Corporate Communications,100.0,Auto-Accepted,corporatecommunications.no,Norway
+"COUPA SOFTWARE, INC.",COUPA EVISA APPLICATION,100.0,Auto-Accepted,kruto-app.us,United States
+"COURSERA, INC.",Coursera,100.0,Auto-Accepted,malojabrd.top,United States
+CRAYON A/S,Crayon A/S.,100.0,Auto-Accepted,,Denmark
+CRAYON AS,Crayon,100.0,Auto-Accepted,crayonweb.azurewebsites.net,Norway
+CRAYON PTE. LTD.,CRAYON WHITE,81.81818181818183,Manual-Review,crayonwhite.com,Singapore
+"CROWDSTRIKE SERVICES, INC.",CrowdStrike Inc s.r.o.,77.77777777777779,Manual-Review,crowdstrikeinc.sk,United States
+Searcher ApS,Searcher,100.0,Auto-Accepted,searcher.dk,Denmark
+"CUSHMAN & WAKEFIELD SERVICES (THAILAND) CO., LTD.",Cushman & Wakefield Services Thailand Co. Ltd.,100.0,Auto-Accepted,,Thailand
+DADES Center Ost ApS,Dades,40.0,Reject,dades.dk,Denmark
+BONNIER BUSINESS PRESS A/S,Vi I Villa,57.77777777777777,Manual-Review,viivilla.no,Denmark
+DAILY JURRAT,Daily Dunya,69.56521739130434,Manual-Review,dunya.com.pk,Pakistan
+Dansk Kredit Rad,Dansk Kredit Råd,93.75,Auto-Accepted,dk-r.dk,Denmark
+DANSK SUNDHEDSSIKRING KOMPLEMENTARSELSKAB ApS,Dansk Sundhedssikring,63.63636363636363,Manual-Review,ds-sundhed.dk,Denmark
+DANSKE BANK A/S,Danske Bank,100.0,Auto-Accepted,danskebank.com,Denmark
+Dantec Nordics ApS,Dantec Nordics,100.0,Auto-Accepted,dantec-nordics.dk,Denmark
+DEAS A/S,DEAS Group,100.0,Auto-Accepted,deas.dk,Denmark
+DEKO-STYLE V/ANJA GRONNE,Deko Style,56.25,Manual-Review,dekostyle.dk,Denmark
+DELFI TECHNOLOGIES A/S,Delfi Technologies,100.0,Auto-Accepted,delfi.com,Denmark
+DELL AS,Dell,100.0,Auto-Accepted,dell.no,Norway
+Dell Corporation (Thailand) Co Ltd,Dellstore Thailand,69.76744186046511,Manual-Review,dellstorethailand.com,Thailand
+DELL PRODUCTS,Promac Products,64.28571428571429,Manual-Review,,Ireland
+DELOITTE ADVOKATFIRMA AS,Deloitte Norge,62.857142857142854,Manual-Review,deloitte.no,Norway
+DELOITTE AS,Deloitte Norge,82.72727272727273,Manual-Review,deloitte.no,Norway
+Deloitte Consulting (Sea) Sdn. Bhd.,Deloitte Consulting Malaysia Sdn Bhd.,89.55223880597015,Manual-Review,,Malaysia
+DELOITTE STATSAUTORISERET REVISIONSPARTNERSELSKAB,Revisto Statsautoriseret Revisionspartnerselskab,88.65979381443299,Manual-Review,revisto.dk,Denmark
+"DELTA EJENDOM, AALBORG A/S",Delta Data,58.06451612903226,Manual-Review,deltadata.dk,Denmark
+ELTEK AS,Eltek,100.0,Auto-Accepted,eltek.com,Norway
+DELTA ELECTRONICS INT'L (SINGAPORE) PTE. LTD.,Delta Electronics,78.26086956521739,Manual-Review,delta-singapore.com,Singapore
+DHL EXPRESS (SINGAPORE) PTE. LTD.,DHL Express Singapore,91.30434782608695,Auto-Accepted,dhlexpress.com.sg,Singapore
+DIAL ZERO (PRIVATE) LIMITED,DIAL ZERO,100.0,Auto-Accepted,dialzero.pk,Pakistan
+Nets Denmark A/S,CashbackAPP,72.72727272727273,Manual-Review,bonuskroner.dk,Denmark
+DIGI TELECOMMUNICATIONS SDN BHD,DiGi Telecommunications,100.0,Auto-Accepted,celcomdigi.com,Malaysia
+Digi Telecommunications Sdn. Bhd.,DiGi Telecommunications,100.0,Auto-Accepted,celcomdigi.com,Malaysia
+DK HOSTMASTER A/S,The Hostmaster,40.74074074074074,Reject,thehostmaster.gr,Greece
+DNA OYJ,DNA Oy.,92.3076923076923,Auto-Accepted,,Finland
+DNB Bank Karl Johan,DNB BANK,59.25925925925925,Manual-Review,dnbconnect.org,Norway
+"DET NORSKE VERITAS, BUSINESS ASSURANCE, DANMARK A/S",Dansk System Assurance,44.776119402985074,Reject,dsawebsite.herokuapp.com,Denmark
+Dtac Trinet Co Ltd,Dtac-trinet,95.23809523809523,Auto-Accepted,,Thailand
+DUBEX A/S,Dubex,100.0,Auto-Accepted,dubex.dk,Denmark
+DXC TECHNOLOGY NORGE AS,DXC Technology Norge AS,100.0,Auto-Accepted,,Norway
+DXC Technology Sverige AB,DXC Technology Sverige AB.,100.0,Auto-Accepted,,Sweden
+Dynamic-Telecommunication Sdn. Bhd.,Dynamic-Telecommunication Sdn Bhd.,100.0,Auto-Accepted,dynagroup.my,Malaysia
+EASTCOMPEACE (SINGAPORE) PTE. LTD.,Eastcompeace Singapore Pte Ltd.,100.0,Auto-Accepted,,Singapore
+EASTCOMPEACE SMART CARD (BANGLADESH) LIMITED,Eastcompeace Smart Card Bangladesh Limited.,100.0,Auto-Accepted,,Bangladesh
+"Eastcompeace Technology Co.,Ltd",Eastcompeace,88.46153846153845,Manual-Review,eastcompeace.com,China
+Ecapacity A/S,e Capacity,100.0,Auto-Accepted,ecapacity.dk,Denmark
+ECI Media Management AB,ECI Media Management,100.0,Auto-Accepted,ecimediamanagement.com,Sweden
+ECI MEDIA MANAGEMENT AB,ECI Media Management,100.0,Auto-Accepted,ecimediamanagement.com,Sweden
+Edotco Group Sdn. Bhd.,EDOTCO Group,100.0,Auto-Accepted,,Malaysia
+EDOTCO TOWERS PAKISTAN (PRIVATE) LIMITED,Aquamatch,55.00000000000001,Manual-Review,aquamatch.pk,Pakistan
+Egencia Denmark A/S,Egencia,100.0,Auto-Accepted,egencia.dk,Denmark
+EGENCIA LLC,Egencia New Zealand,60.0,Manual-Review,egencia.co.nz,United States
+EGENCIA NORWAY AS,Egencia,66.66666666666666,Manual-Review,egencia.no,Norway
+Egencia Sweden AB,Egencia Switzerland,33.33333333333333,Reject,egencia.ch,United Kingdom
+Egeneration Limited,eGeneration,100.0,Auto-Accepted,egeneration.co,Bangladesh
+ELGIGANTEN GROSSIST A/S,Elgiganten,68.96551724137932,Manual-Review,elgiganten.dk,Denmark
+ELTEL NETWORKS CONNECT A/S,Eltel Networks,77.77777777777779,Manual-Review,eltelgroup.com,Denmark
+Energy Cool ApS,Energy Cool,84.61538461538461,Manual-Review,energy-cool.com,Denmark
+ENETEK POWER SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,Spółka OLOGROUP Spółka z ograniczoną odpowiedzialnością,71.02803738317756,Manual-Review,ologroup.pl,Poland
+ENERGI HOBRO TELE A/S,Energimidt,58.82352941176471,Manual-Review,energimidt.dk,Denmark
+Enreach Campaigns A/S,Campaigns,69.23076923076923,Manual-Review,campaigns.dk,Denmark
+Ericsson (Malaysia) Sdn. Bhd.,Ericsson Telecommunications Sdn. Bhd.,66.66666666666666,Manual-Review,,Malaysia
+Ericsson (Thailand) Limited,Ericsson Thailand Ltd.,100.0,Auto-Accepted,,Thailand
+ERICSSON AB,Ericsson Väst Seniorförening,100.0,Auto-Accepted,ericssonvastsen.se,Sweden
+ERICSSON AS,Ericsson AS,100.0,Auto-Accepted,epignosis.no,Norway
+ERICSSON DANMARK A/S,Ericsson,66.66666666666666,Manual-Review,,Denmark
+ERNST & YOUNG LLP,Ernst Engineering Pte. Ltd.,54.054054054054056,Manual-Review,,Singapore
+EY Godkendt Revisionspartnerselskab,Ey Grønland Godkendt Revisionsanpartsselskab,81.0126582278481,Manual-Review,,Denmark
+ERP DENMARK ApS,ERP Systems,66.66666666666666,Manual-Review,erps.dk,Denmark
+Estel Technologies Private Limited,Estel Technologies,100.0,Auto-Accepted,esteltelecom.com,India
+EUTELSAT S.A.,Eutelsat Asia,100.0,Auto-Accepted,,France
+Ework Group AB (Publ),Ework Group,84.84848484848484,Manual-Review,eworkgroup.com,Sweden
+EWORK NORDIC ApS,BioSite,58.82352941176471,Manual-Review,biosite.dk,Denmark
+EWORK GROUP NORWAY AS,Universal Music,47.61904761904761,Reject,universalmusic.no,Norway
+EXFO Ltd.,EXFO,60.0,Manual-Review,exfo.com,Canada
+EXIDE TECHNOLOGIES AS,Exide Technologies avd Bergen,76.59574468085107,Manual-Review,sonnak.com,Norway
+EXPRESS PUBLICATIONS (PVT.) LIMITED,Al Huda Publications,65.0,Manual-Review,alhudapublications.org,Pakistan
+Extenda Retail AS Avd Oslo,EXTENDA RETAIL,73.68421052631578,Manual-Review,44749.org,Norway
+F5 NETWORKS LIMITED,F5 Networks Inc.,100.0,Auto-Accepted,couponannie.co.uk,United Kingdom
+FACEBOOK IRELAND LIMITED,Facebook Training Ireland,78.04878048780488,Manual-Review,facebooktraining.ie,Ireland
+Falck Danmark A/S,Falck Danmark,100.0,Auto-Accepted,falck.dk,Denmark
+Fastbridge Malaysia Sdn Bhd,Mall of Malaysia,70.58823529411765,Manual-Review,mallofmalaysia.com.my,Malaysia
+Favro Holding AB,Favro,66.66666666666666,Manual-Review,favro.com,Sweden
+Fiberail Sdn. Bhd.,Fiberail,100.0,Auto-Accepted,fiberail.com.my,Malaysia
+Fibrecomm Network (M) Sdn. Bhd.,FIBRECOMM,62.06896551724138,Manual-Review,fibrecomm.net.my,Malaysia
+DANSK HALON TEKNIK ApS,Dansk Iso Teknik,85.71428571428571,Manual-Review,isoteknik.dk,Denmark
+FORM DANMARK ApS,Form Danmark,100.0,Auto-Accepted,formdanmark.dk,Denmark
+SYKES ENTERPRISES NORWAY AS,Sykes Enterprises Inc.,41.46341463414634,Reject,,United States
+GARTNER ADVISORY (SINGAPORE) PTE LTD,Gartner Advisory S Pte Ltd.,84.61538461538461,Manual-Review,,Singapore
+GARTNER NORGE AS,Gartner Norge,100.0,Auto-Accepted,,Norway
+GBT TRAVEL SERVICES UK LIMITED,GBT CAD Services,73.68421052631578,Manual-Review,,United Kingdom
+Genex Infosys Limited,Genex Infosys,100.0,Auto-Accepted,genexinfosys.com,Bangladesh
+GEO ENTERTAINMENT TELEVISION (PVT.) LIMITED,Geo Mobile & Easypaisa Shop,40.74074074074074,Reject,,Pakistan
+GINTEL AS,Gintel Norway,73.15789473684211,Manual-Review,gintel.com,Norway
+GLOBALCONNECT A/S,GlobalConnect,100.0,Auto-Accepted,globalconnect.dk,Denmark
+Glory Fashions Ltd.,Glory Fashions,100.0,Auto-Accepted,gloryfashions.com,Bangladesh
+Goecker Service A/S,Goecker since 1862,72.72727272727273,Manual-Review,goecker.dk,Denmark
+GOGIFT.COM A/S,GoGift,80.0,Manual-Review,gogift.com,Denmark
+Google Asia Pacific Pte. Ltd.,Google Asia Pacific Pte. Ltd.,100.0,Auto-Accepted,duoi625maxim.com,Singapore
+Google Cloud EMEA Limited,Bon Plan Sur Mesure,50.0,Manual-Review,bonplansurmesure.com,France
+GOOGLE COMMERCE LIMITED,Google Commerce Limited,100.0,Auto-Accepted,lespotnoir.com,Ireland
+GOOGLE IRELAND LIMITED,Anbieter Google Ireland,75.67567567567568,Manual-Review,diessen-mitte.com,Ireland
+GRAMEENPHONE LTD,Grameenphone Centre,77.41935483870968,Manual-Review,,Bangladesh
+Grassfish Denmark ApS,playscapes Denmark,69.76744186046511,Manual-Review,playscapes.dk,Denmark
+Green Packet Berhad,GREEN PACKET,77.41935483870968,Manual-Review,greenpacket.com,Malaysia
+GreenMind A/S,GreenMind Aalborg,100.0,Auto-Accepted,greenmind.dk,Denmark
+grey advertising ( bangladesh) ltd.,Backpage PR,98.18181818181819,Auto-Accepted,backpagepr.com,Bangladesh
+GSM ASSOCIATION,GSMA Training,100.0,Auto-Accepted,gsmatraining.com,United Kingdom
+"HARBIN COSLIGHT NEW ENERGY CO., LTD.",Harbin Xinju New Energy Co. Ltd.,77.55102040816327,Manual-Review,,China
+HE SIKRING A/S,AL-SIKRING,73.68421052631578,Manual-Review,al-sikring.dk,Denmark
+HELP Forsakring filial,HELP Försäkring,70.27027027027027,Manual-Review,helpforsakring.se,Sweden
+HELP FORSIKRING AS,HELP Forsikring,100.0,Auto-Accepted,help.no,Norway
+"HELP FORSIKRING,FILIAL AF HELP FORSIKRING AS, NORGE",HELP Forsikring,48.38709677419355,Reject,helpforsikring.dk,Denmark
+HERM. RASMUSSEN A/S,Herm,100.0,Auto-Accepted,herm.dk,Denmark
+HEST AGENTUR AS,HEST Agentur,100.0,Auto-Accepted,hestagentur.no,Norway
+HETEK A/S,HETEK,100.0,Auto-Accepted,hetek.dk,Denmark
+Hewlett-Packard (M) Sdn Bhd,Hewlett-Packard M Sdn. Bhd.,100.0,Auto-Accepted,,Malaysia
+Hewlett-Packard (Thailand) Ltd.,Hewlett-Packard Thailand Company Limited,85.18518518518519,Manual-Review,,Thailand
+HEWLETT-PACKARD ApS,Hewlett-Packard ApS.,100.0,Auto-Accepted,,Denmark
+HEWLETT-PACKARD NORGE AS,Linestore,34.48275862068966,Reject,linestore.no,Norway
+"Hewlett Packard Singapore (Sales) Pte., Ltd.",Hewlett Packard Depot Rd,64.40677966101694,Manual-Review,,Singapore
+HEWLETT-PACKARD SVERIGE AB,Hewlett-Packard Sverige AB.,100.0,Auto-Accepted,,Sweden
+"HIGH TOUCH, INC.",High Touch Medicine,78.96551724137932,Manual-Review,hightouchmedicine.com,United States
+HOLDSPORT.DK ApS,Holdsport,75.0,Manual-Review,holdsport.dk,Denmark
+HOPPECKE BATTERIEN GMBH & CO. KG,Hoppecke,85.71428571428571,Manual-Review,hoppecke-history.de,Germany
+HP INC (THAILAND) COMPANY LIMITED,HP Inc Thailand Ltd.,75.0,Manual-Review,,Thailand
+HP INC DANMARK ApS,HP Inc Denmark ApS.,93.33333333333333,Auto-Accepted,,Denmark
+HP NORGE AS,HP Norge,100.0,Auto-Accepted,hp-norge.no,Norway
+Hp Pps Sales Sdn. Bhd.,HP PPS Sales Sdn Bhd.,100.0,Auto-Accepted,hp-aipcvideocontest.com,Malaysia
+HP PPS SINGAPORE (SALES) PTE. LTD.,GG Playfest,100.0,Auto-Accepted,ggplayfest.com,Singapore
+HUAWEI INTERNATIONAL PTE. LTD.,Huawei Enterprise,100.0,Auto-Accepted,,Singapore
+Huawei Technologies (Bangladesh) Limited.,Shahidul Islam Sarker,100.0,Auto-Accepted,shahidulsarker.com,Bangladesh
+HUAWEI TECHNOLOGIES (DENMARK) ApS,Xplora Technologies Denmark,75.86206896551724,Manual-Review,xplora.dk,Denmark
+Huawei Technologies (Malaysia) Sdn. Bhd.,Huawei Technologies Malaysia Sdn Bhd TRX,94.73684210526315,Auto-Accepted,,Malaysia
+"HUAWEI TECHNOLOGIES (THAILAND) CO., LTD.",Huawei Technologies Thailand Co Ltd.,100.0,Auto-Accepted,transformex.org,Thailand
+HUAWEI TECHNOLOGIES NORWAY AS,Huawei Technologies Norway AS,100.0,Auto-Accepted,,Norway
+HUAWEI TECHNOLOGIES PAKISTAN (PRIVATE) LIMITED,Huawei Technologies Pakistan,100.0,Auto-Accepted,,Pakistan
+Huawei Technologies Sweden AB,Future of Wireless,100.0,Auto-Accepted,futureofwireless.eu,Sweden
+HUBER+SUHNER A/S,Huber Suhner A/S.,95.65217391304348,Auto-Accepted,,Denmark
+Huber+Suhner AG,Huber Suhner AG,96.55172413793103,Auto-Accepted,exhubersuhner.ch,Switzerland
+HUBER+SUHNER ELECTRONICS PRIVATE LIMITED,HUBER SUHNER Sales Partners,34.0,Reject,hubersuhner.com,Switzerland
+Hum Network Limited,Hum Network,100.0,Auto-Accepted,humnetwork.tv,Pakistan
+Human Edge Management AG,Human Edge Investment Technology,67.85714285714286,Manual-Review,human-edge.ch,Switzerland
+Hydro Energi AS,Hydro Rein,72.72727272727273,Manual-Review,hydrorein.com,Norway
+IBM DANMARK A/S,Mercedes-Benz,58.06451612903226,Manual-Review,mercedes-benz.dk,Denmark
+Idemia France SAS,IDEMIA France SAS.,100.0,Auto-Accepted,bioscrypt.com,France
+OBERTHUR TECHNOLOGIES NORWAY AS,Oberthur Technologies,42.857142857142854,Reject,oberthur.com,France
+"IKANO BANK, FILIAL AF IKANO BANK AB (PUBL), SVERIGE",Ikano Bank Leasing,43.07692307692308,Reject,vinnuleasing.fo,Denmark
+Imi Mobile Vas Limited,IMI Mobile VAS Ltd FZE,42.42424242424242,Reject,,United Kingdom
+IMIMOBILE EUROPE LIMITED,IMImobile,72.0,Manual-Review,imimobile.com,United Kingdom
+INDEPENDENT MEDIA CORPORATION (PRIVATE) LIMITED.,Independent Pak Media,68.0,Manual-Review,,Pakistan
+INFINERA CORPORATION,INFINERA,100.0,Auto-Accepted,infinera.com,United States
+INFOMEDIA A/S,INFOMEDIAAN,100.0,Auto-Accepted,infomedia.fi,Denmark
+INFOSYS LIMITED,Infosys Limited,100.0,Auto-Accepted,,India
+Ingram Micro Mobility Sweden AB,INGRAM MICRO NORDIC LOGISTICS AB.,69.84126984126983,Manual-Review,,Sweden
+inlumi ApS,InLumi DOT,70.0,Manual-Review,inlumidot.dk,Denmark
+INSIDER SECURITY PTE. LTD.,InsiderSecurity,100.0,Auto-Accepted,insidersecurity.co,Singapore
+INTEGRITY RISK INTERNATIONAL LLC,Integrity Risk International,100.0,Auto-Accepted,integrityriskintl.com,United States
+Intouch Insight Inc.,Intouch Insight,100.0,Auto-Accepted,intouchinsight.com,Canada
+Intrum Debt Finance AG,Intrum,51.61290322580645,Manual-Review,intrum.ch,Switzerland
+ADVIS A/S,Advis,60.0,Manual-Review,advis.se,Sweden
+IPG MEDIABRANDS (SINGAPORE) PTE. LTD.,IPG Mediabrands APAC,73.46938775510205,Manual-Review,,Singapore
+Ipsos Sdn. Bhd.,Ipsos Sdn Bhd.,100.0,Auto-Accepted,,Malaysia
+ISS Facility Services A/S,ISS Facility Services Ltd.,100.0,Auto-Accepted,frontend-issworld-demo.vercel.app,Denmark
+ISS FACILITY SERVICES AB,ISS Facility Services AB.,100.0,Auto-Accepted,,Sweden
+ISS FACILITY SERVICES AS,ISS Facility Services AS,100.0,Auto-Accepted,kantinebetaling.no,Norway
+ISS GLOBAL A/S,ISS GLOBAL,50.0,Manual-Review,iss-global-bmt.com,United Kingdom
+ITECTRA A/S,Itectra,100.0,Auto-Accepted,itectra.com,Denmark
+JACK OF DIGITAL (PRIVATE) LIMITED,Jack of Digital,100.0,Auto-Accepted,jackofdigital.com,Pakistan
+AEON DANMARK A/S,Aeon art,70.0,Manual-Review,aeonart.co,Denmark
+Jastel Network Co Ltd,Jastel,100.0,Auto-Accepted,jastel.co.th,Thailand
+JLL Corporate Solutions AB,JLL CORPORATE SOLUTIONS AB.,100.0,Auto-Accepted,,Sweden
+JOB-INDEX A/S,Jobindex,100.0,Auto-Accepted,jobindex.dk,Denmark
+JOBSTREET.COM PTE LTD,International Tax Management,37.5,Reject,itm.com.sg,Singapore
+JOHNSON CONTROLS DENMARK APS,Sabroe,100.0,Auto-Accepted,sabroe.com,Denmark
+JONES LANG LASALLE PROPERTY CONSULTANTS PTE LTD,Jones Lang Lasalle Property Consultants Pte. Ltd.,100.0,Auto-Accepted,,Singapore
+Kahoot! Denmark ApS,NicOnline,29.629629629629626,Reject,niconline.net,
+KAMTOWER DANMARK A/S,KAMTOWER,50.0,Manual-Review,kamtower.com,India
+KANTAR TNS AS,Kantar,75.0,Manual-Review,kantar.no,Norway
+"Kaon Broadband Co.,Ltd.",broadband WebFAX,89.47368421052632,Manual-Review,mobicall.co.kr,South Korea
+KERRY FREIGHT PAKISTAN (PRIVATE) LIMITED,Kerry Freight Pakistan PVT LTD.,100.0,Auto-Accepted,,Pakistan
+Kerry Logistics Network Limited,Kerry Logistics,100.0,Auto-Accepted,kerrylogistics.com,Hong Kong
+KINLY HOLDING AS,Kinly AS avd Trondheim,48.484848484848484,Reject,,Norway
+KINNARPS A/S,Kinnarps,100.0,Auto-Accepted,kinnarps.dk,Denmark
+KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak.,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,84.61538461538461,Manual-Review,,Norway
+KM TELECOM DANMARK A/S,KM TELECOM,71.42857142857143,Manual-Review,km-telecom.com,Denmark
+KMD Venture A/S,Venture Group A/S.,58.333333333333336,Manual-Review,,Denmark
+KODA,Koda Talent,36.66666666666667,Reject,kodatalent.com,United Kingdom
+KOLEGRUPPEN OST ApS,Kølegruppen Øst ApS.,89.47368421052632,Manual-Review,koelegruppen.dk,Denmark
+KOMMANDITAKTIESELSKABET FREDERIKSSUND SHOPPINGCENTER,Frederikssund St.,47.05882352941176,Reject,,Denmark
+KORN FERRY (UK) LIMITED,Korn Ferry,86.95652173913044,Manual-Review,,United Kingdom
+Kpmg AS Hovedkontor,KPMG - Hamar,57.14285714285714,Manual-Review,,Norway
+KROLL ASSOCIATES U.K. LIMITED,Kroll Interiors,58.82352941176471,Manual-Review,krollinteriors.co.uk,United Kingdom
+Kromann Reumert,Kromann Reumert,100.0,Auto-Accepted,kromannreumert.com,Denmark
+LOXYSOFT AS,Loxysoft,60.0,Manual-Review,loxysoft.se,Sweden
+LEASE PLAN FINANS A/S,LEASE A BOX,57.14285714285714,Manual-Review,leaseabox.dk,Denmark
+LeasePlan Sverige AB,Leaseplan,62.06896551724138,Manual-Review,leaseplan.se,Sweden
+LEOCH BATTERY PTE. LTD.,LEOCH Battery,100.0,Auto-Accepted,leoch.sg,Singapore
+LINKEDIN IRELAND UNLIMITED COMPANY,Locateai,50.0,Manual-Review,locate.ai,United States
+LINKEDIN SINGAPORE PTE. LTD.,LinkedinSingapore,87.17948717948718,Manual-Review,,Singapore
+L.M. Ericsson Bangladesh Ltd.,LM Ericsson Bangladesh Ltd.,100.0,Auto-Accepted,,Bangladesh
+SCANOPTIK A/S,Scan. Tek. Optik ApS.,66.66666666666666,Manual-Review,,Denmark
+LOYALTY AS,Loyalty,100.0,Auto-Accepted,loyalty.no,Norway
+MAKIO ApS,MAKIO,100.0,Auto-Accepted,makio.dk,Denmark
+Manpower Student AB,Manpower Visby,74.50980392156863,Manual-Review,,Sweden
+MANPOWER AS,MANPOWER,100.0,Auto-Accepted,manpower.no,Norway
+Mapspeople A/S,MapsPeople,100.0,Auto-Accepted,mapspeople.com,Denmark
+MARKEDSSJEFENE AS,Markedssjefene,100.0,Auto-Accepted,markedssjefene.no,Norway
+JLT Denmark A/S,Colas Danmark,75.0,Manual-Review,colas.dk,Denmark
+MARSH & MCLENNAN AGENCIES AS,Gulbrandsen Agencies,59.09090909090909,Manual-Review,gulbrandsen-agencies.no,Norway
+Maven Wireless Sweden AB,Maven Wireless,73.68421052631578,Manual-Review,mavenwireless.com,Sweden
+MAVENIR SYSTEMS AB,Mavenir Systems AB.,100.0,Auto-Accepted,,Sweden
+MAVENIR SYSTEMS LIMITED,Mavenir Systems Inc.,100.0,Auto-Accepted,postsell.trade,United Kingdom
+MAVENIR SYSTEMS UK LIMITED,Mavenir Systems Inc.,90.9090909090909,Auto-Accepted,postsell.trade,United Kingdom
+Measat Satellite Systems Sdn. Bhd.,Measat Broadcast Systems Sdn Bhd.,78.125,Manual-Review,,Malaysia
+Media Times Limited,Media Times Ltd.,100.0,Auto-Accepted,,Pakistan
+MEISEL EIENDOM AS,Meisel AS,60.0,Manual-Review,meisel.no,Norway
+META PLATFORMS IRELAND LIMITED,META World,56.25,Manual-Review,metaworld.ie,Ireland
+MICROSOFT IRELAND OPERATIONS LIMITED,Microsoft Ireland Operations,100.0,Auto-Accepted,nowubuy.shop,Ireland
+MICROSOFT NORGE AS,Microsoft Norway,83.87096774193549,Manual-Review,microsoft.no,Norway
+MICROSOFT REGIONAL SALES PTE. LTD.,Microsoft Regional Sales Corporation,84.375,Manual-Review,,Singapore
+ABC KANTINEAUTOMATER ApS,ABC Spilleautomater,69.76744186046511,Manual-Review,abcspilleautomater.dk,Denmark
+NW GRUPPEN A/S,SJ Gruppen,80.0,Manual-Review,sj-container.dk,Denmark
+"MIXPANEL, INC.",Mixpanel,100.0,Auto-Accepted,mixpanel.com,United States
+MNEMONIC AS,mnemonic AS.,100.0,Auto-Accepted,mnemonic.io,Norway
+MobilePeople ApS,Mobilepeople,100.0,Auto-Accepted,mobilepeople.dk,Denmark
+"MOBILEUM, INC.",Mobileum,100.0,Auto-Accepted,,United States
+MODULEX DANMARK A/S,Modulex manufacturing,66.66666666666666,Manual-Review,,Denmark
+Monday. Kum Ltd.,monday U,88.88888888888889,Manual-Review,monday-university.com,Israel
+Mustika Teratai Sdn. Bhd.,Mustika Teratai Sdn. Bhd.,100.0,Auto-Accepted,,Malaysia
+NAGARRO AS,Nagarro,60.0,Manual-Review,nagarro-clone.vercel.app,
+NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED,Technowell,53.333333333333336,Manual-Review,technowell.org.in,India
+NEC CORPORATION,NEC Corporation mae,88.23529411764706,Manual-Review,,Japan
+NEC CORPORATION OF MALAYSIA SDN. BHD.,NEC Corporation Of Malaysia Sdn. Bhd.,100.0,Auto-Accepted,,Malaysia
+NEC Scandinavia Aktiebolag,Scandinavian Packages,68.08510638297872,Manual-Review,scandinavianpackages.com,Sweden
+NEMTILMELD.DK ApS,NemTilmeld,76.92307692307693,Manual-Review,nemtilmeld.dk,Denmark
+Nepa AB,Nepa Sweden AB.,66.66666666666666,Manual-Review,nepa.com,Sweden
+NERAS DIREKTE AS,Neras direkte,100.0,Auto-Accepted,nerasdirekte.no,Norway
+Nestor Cables Oy,Nestor Cables,89.65517241379311,Manual-Review,nestorcables.fi,Finland
+NET ONE ASIA PTE. LTD.,Net One Asia,80.0,Manual-Review,netoneasia.com,Singapore
+NETIC A/S,Netic,100.0,Auto-Accepted,netic.dk,Denmark
+NETS DANMARK A/S,NemID,72.72727272727273,Manual-Review,mitid.dk,Denmark
+New Skies Satellites B.V.,New Skies Satellites B.V.,100.0,Auto-Accepted,,Netherlands
+NEWS PUBLICATIONS (PRIVATE) LIMITED,OK! Pakistan,74.28571428571429,Manual-Review,okpakistan.com,Pakistan
+NEXCOM A/S,Nexcom A/S.,100.0,Auto-Accepted,nexcom.dk,Denmark
+NOITSO A/S,Experian,100.0,Auto-Accepted,experian.dk,Denmark
+Nokia Innovations Oy,Novocam Medical Innovations,76.0,Manual-Review,futudent.com,Finland
+NOKIA SERVICES AND NETWORKS MALAYSIA SDN. BHD.,Nokia Solutions And Networks Sdn Bhd.,75.0,Manual-Review,,Malaysia
+NOKIA SOLUTIONS AND NETWORKS NORGE AS,Nokia solutions And Networks Norge AS,100.0,Auto-Accepted,,Norway
+Nokia Solutions and Networks Oy,HEXA-X Consortium,100.0,Auto-Accepted,hexa-x.eu,Finland
+"NORDEA BANK ABP, FILIAL I NORGE",Nordea,66.66666666666666,Manual-Review,nordeea.co.uk,Norway
+NORDIC COMPUTER A/S,Nordic Computer,100.0,Auto-Accepted,nordiccomputer.com,Denmark
+NORDIX DATA AS,Nordix Data,100.0,Auto-Accepted,nordix.no,Norway
+DMA Research A/S,DMA International,41.37931034482759,Reject,dma-international.com,Denmark
+NORWEGIAN AIR SHUTTLE AS (PS),Norwegian Air Shuttle,91.30434782608695,Auto-Accepted,norwegianair.ru,Norway
+NOVATARIS A/S,Novataris,100.0,Auto-Accepted,novataris.com,Denmark
+Ntt (Thailand) Ltd,NTT DATA Thailand,82.75862068965517,Manual-Review,,Thailand
+NTT ASIA PACIFIC HOLDINGS PTE. LIMITED,Amazon,78.57142857142857,Manual-Review,amazon.sg,Singapore
+NTT DATA Business Solutions Korlatolt Felelossegu Tarsasag,NTT DATA Business Solutions Hungary,66.66666666666666,Manual-Review,,Hungary
+ITELLIGENCE A/S,IT ELLIGENCE,57.82608695652174,Manual-Review,itelligence.com.mx,Mexico
+Ntt Malaysia Solutions Sdn. Bhd.,Malaysia Microelectronic Solutions,72.22222222222221,Manual-Review,my-ms.com,Malaysia
+Ntt Msc Sdn. Bhd.,MYNAP,73.17073170731707,Manual-Review,mynap.my,Malaysia
+OCH A/S,OCH,100.0,Auto-Accepted,och.dk,Denmark
+OK A.M.B.A.,OK a.m.b.a,100.0,Auto-Accepted,ok.dk,Denmark
+Omd (M) Sdn. Bhd.,OMD World Imaging,65.0,Manual-Review,omdworldimaging.com,Malaysia
+OMD AS,OMD,60.0,Manual-Review,omd.pt,Portugal
+Media Direction A/S,New Media Direction,98.23529411764706,Auto-Accepted,newmediadirection.dk,Denmark
+OMEGA EXIM LIMITED,Omega Exim Limited,100.0,Auto-Accepted,omegaeximltd.com,Bangladesh
+OMNICOM MEDIA GROUP AS,Omnicom Media Group AS,100.0,Auto-Accepted,,Norway
+OMNICOM MEDIA GROUP ASIA PACIFIC PTE. LTD.,Omnicom Media Group Asia Pacific,94.11764705882352,Auto-Accepted,,Singapore
+ON THE SPOT A/S,ON THE SPOT,100.0,Auto-Accepted,,Denmark
+ONETRUST TECHNOLOGY LIMITED,ONETRUST,73.07692307692307,Manual-Review,cookiepedia.co.uk,United Kingdom
+Oracle Corporation (Thailand) Co Ltd,Oracle Tours Thailand,75.0,Manual-Review,,Thailand
+Oracle Corporation Malaysia Sdn. Bhd.,Tdata Corporation Malaysia Sdn. Bhd.,86.95652173913044,Manual-Review,,Malaysia
+ORACLE DANMARK APS,Oracle Danmark,87.5,Manual-Review,,Denmark
+ORACLE NORGE AS,Oracle Norge AS,100.0,Auto-Accepted,,Norway
+ORACLE SVENSKA AB,Oracle Investments,73.68421052631578,Manual-Review,marcus-nilsson.com,Sweden
+Orbis Oy,Worbis,100.0,Auto-Accepted,orbis.fi,Finland
+OROGENIC ApS,Orogenic,100.0,Auto-Accepted,orogenic.dk,Denmark
+"ORRICK, HERRINGTON & SUTCLIFFE (UK) LLP",Herrington Gate,52.0,Manual-Review,herringtongate.design,United Kingdom
+P1 SECURITY,P1 Security,100.0,Auto-Accepted,p1sec.com,France
+"Paco Casa Co.,Ltd.",PACO CASA a,76.92307692307693,Manual-Review,pacocasa.co.th,Thailand
+PAKISTAN INSTITUTE OF NUCLEAR SCIENCE & TECHNOLOGY (PINSTECH),Pakistan Institute of Nuclear Science & Technology,91.58878504672897,Auto-Accepted,,Pakistan
+PARENT AND FAMILY CONSULTING LIMITED,Parent Zone Local,100.0,Auto-Accepted,parentzone.org.uk,United Kingdom
+PELATRO LIMITED,Pelatro Limited,60.0,Manual-Review,pelatro.com,India
+Varsta Software,Varsta Petri,66.66666666666666,Manual-Review,,Finland
+PING IT A/S,Ping IT,100.0,Auto-Accepted,pingit.dk,Denmark
+Playable ApS,Playable,100.0,Auto-Accepted,playable.com,Denmark
+PLESNER Advokatpartnerselskab,Plesners psykolog praksis,44.44444444444444,Reject,plesners.net,Denmark
+PLP INVEST/EJENDOMME A/S,PLP Invest Ejendomme,97.43589743589743,Auto-Accepted,plp-ejendomme.dk,Denmark
+"PLURALSIGHT, LLC",Pluralsight,100.0,Auto-Accepted,tordkalvenes.com,United States
+PM ENERGI A/S,Pm energi,100.0,Auto-Accepted,pmenergi.dk,Denmark
+Postnord Danmark (B2452),PostNord Danmark Rundt,77.27272727272727,Manual-Review,postnorddanmarkrundt.dk,Denmark
+POSTEN BRING AS,Posten Bring,100.0,Auto-Accepted,postenbring.no,Norway
+DATA SCANNING A/S,Scanning,76.19047619047619,Manual-Review,scanning.dk,Denmark
+PostNord Stralfors AB,PostNord Stralfors,92.3076923076923,Auto-Accepted,stralfors.com,Sweden
+PRICEWATERHOUSECOOPERS STATSAUTORISERET REVISIONSPARTNERSELSKAB,Pricewaterhousecoopers Statsautoriseret Revisionspartnerselskab,100.0,Auto-Accepted,,Denmark
+PRICEWATERHOUSECOOPERS AS,PWC- PricewaterhouseCoopers AS,91.66666666666666,Auto-Accepted,,Norway
+PROPAKISTANI SOLUTIONS (PRIVATE) LIMITED,ProPakistani,70.58823529411765,Manual-Review,propakistani.pk,Pakistan
+DRAKA NORSK KABEL AS,Celsa Steel Service,27.77777777777778,Reject,celsa-steelservice.no,Norway
+Publicis Groupe Holdings B.V.,Publicis Groupe,71.42857142857143,Manual-Review,publicisgroupe.nl,Netherlands
+QCC GLOBAL LIMITED,QCC Global,100.0,Auto-Accepted,qccglobal.com,United Kingdom
+QCC INTERSCAN LTD,Interscan Transportation,81.81818181818183,Manual-Review,interscanltd.co.uk,United Kingdom
+QLIKTECH DENMARK ApS,Birk Denmark,77.77777777777779,Manual-Review,birkdenmark.com,Denmark
+QlikTech International Markets AB,QLIKTECH INTERNATIONAL MARKETS AB.,100.0,Auto-Accepted,,Sweden
+QlikTech Nordic AB,QLIKTECH INTERNATIONAL AB.,65.11627906976744,Manual-Review,,Sweden
+"QUALTRICS, LLC",Qualtrics LLC.,100.0,Auto-Accepted,,United States
+QUESTBACK AS,Questback,100.0,Auto-Accepted,questback.com,Norway
+Radio Frequency Systems Gesellschaft mit beschrankter Haftung,Radio Frequency Systems,60.86956521739131,Manual-Review,rfsworld.net,Germany
+RAJAH & TANN,Rajah & Tann,100.0,Auto-Accepted,rajahtannasia.com,Singapore
+RAPID7 INTERNATIONAL LIMITED,Rapid 7 EMEA Internal Moose,63.829787234042556,Manual-Review,emea-internalmoose-swag.com,United Kingdom
+Red Hat Asia Pacific Pte Ltd,Red Hat Asia Pacific,90.9090909090909,Auto-Accepted,,Singapore
+RED HAT LIMITED,Red Flare,62.5,Manual-Review,redflare.co,Ireland
+Red Hat Malaysia Sdn. Bhd.,Red Harvest Malaysia,72.72727272727273,Manual-Review,redharvestmalaysia.com,Malaysia
+RELOCATION AS,Relocation,100.0,Auto-Accepted,relocation.no,Norway
+RETAIL FOCUS A/S,Retail CC,76.19047619047619,Manual-Review,retailcc.dk,Denmark
+REVEALCX LLC,RevealCX Inc.,80.0,Manual-Review,aiincx.com,United States
+Rezponz A/S,Rezponz,100.0,Auto-Accepted,rezponz.dk,Denmark
+Rhenus Warehousing Solutions Denmark A/S,Rhenus Warehousing Solutions,87.5,Manual-Review,,Denmark
+RITTAL A/S,Rittal A/S.,100.0,Auto-Accepted,rittal.dk,Denmark
+RTTD LTD,RTTD,60.0,Manual-Review,rttd.de,Germany
+BRINTH & HILLERUP A/S,Hillerup Gredstedbro,44.44444444444444,Reject,,Denmark
+SAGEMCOM BROADBAND SAS,Sagemcom,66.66666666666666,Manual-Review,sagemcom.com,France
+"SAILPOINT TECHNOLOGIES, INC.",SAILPOINT TECHNOLOGIES,100.0,Auto-Accepted,sailpointt.xyz,United States
+SALESFORCE UK LIMITED,The Salesforce PM,73.33333333333333,Manual-Review,marseillanvacances.com,United Kingdom
+SALESFORCE.COM SINGAPORE PTE. LTD.,DancingMind,42.857142857142854,Reject,dancingmind.com,Singapore
+Salling Group Forsikring A/S,Salling Group,70.27027027027027,Manual-Review,sallinggroup.com,Denmark
+Saluran Cekap (M) Sdn. Bhd.,Saluran Cekap M Sdn Bhd.,100.0,Auto-Accepted,,Malaysia
+SAMSUNG ELECTRONICS NORDIC AKTIEBOLAG,Samsung Electronics Nordic AB.,87.87878787878788,Manual-Review,,Sweden
+SANVARU TECHNOLOGY LIMITED,Sanvaru Technology,100.0,Auto-Accepted,sanvaru.com,India
+SAP DANMARK A/S,SAP HANA,73.68421052631578,Manual-Review,saphana.dk,Denmark
+SAS INSTITUTE AS,SAS Institute,60.0,Manual-Review,sasinstitute.in,India
+SAVILLE CONSULTING DANMARK A/S,Saville Consulting Danmark,100.0,Auto-Accepted,savilleconsulting.dk,Denmark
+SCHNEIDER ELECTRIC DANMARK A/S,Schneider Electric Denmark A/S.,96.15384615384616,Auto-Accepted,studiecd.dk,Denmark
+Scrive AB,Scrive,80.0,Manual-Review,scrive.com,Sweden
+ServiceNow Nederland B.V.,ServiceNow BV.,72.22222222222221,Manual-Review,servicenow.nl,Netherlands
+SFDC IRELAND LIMITED,SFDC,25.0,Reject,sfdc.org,United States
+"SHANDONG SACRED SUN POWER SOURCES CO., LTD",Shandong Faithwit Power Sources Co. Ltd.,75.0,Manual-Review,,China
+"SHENZHEN CENTER POWER TECH. CO., LTD.",Vision_Smart_Batteries_Backup_Power,89.65517241379311,Manual-Review,g0t8tt0j.com,China
+"Shenzhen Huaptec Co., Ltd",Shenzhen Aomiou Technology Co. Ltd.,61.904761904761905,Manual-Review,aomiou.en.alibaba.com,China
+"Shenzhen Sdmc Technology Co., Ltd",XMediaCloud,100.0,Auto-Accepted,xmediacloud.com,China
+"SHENZHEN SKYWORTH DIGITAL TECHNOLOGY CO., LTD.",Shenzhen Skyworth Digital Technology Co. Ltd. Beijing Branch,80.89887640449437,Manual-Review,,China
+SHIELDS ENVIRONMENTAL GROUP LTD,Shields Dance Group,65.21739130434783,Manual-Review,,United Kingdom
+"Shuangdeng Group Co., Ltd.",Shuangdeng Group,100.0,Auto-Accepted,shuangdeng.com.cn,China
+Siae Microelettronica Sdn. Bhd.,Cube-Coms,54.54545454545454,Manual-Review,cube-coms.com,Malaysia
+Siae-microelettronica - S.p.a.,SIAE MICROELETTRONICA,86.95652173913044,Manual-Review,siaemic.com,Italy
+Sievo Oy,Sievo Bucharest Office,46.666666666666664,Reject,sievo.com,Finland
+SIGNICAT AS,Signicat,60.0,Manual-Review,signicat.com,Lithuania
+SILLEHOVED ApS,Sillehoved,83.33333333333334,Manual-Review,,Denmark
+SINGTEL GLOBAL INVESTMENT PTE. LTD.,Robo Global Investment,80.0,Manual-Review,roboglobal.info,Singapore
+SiPM,SIPM,60.0,Manual-Review,sipm.com.au,Australia
+Skillpower Services (Thailand) Co Ltd,Dan Murdoch Risk Services,41.509433962264154,Reject,risk.co.th,Thailand
+SKYCALL AS,Skycall AS,100.0,Auto-Accepted,skycallas.no,Norway
+Smart Media4U Technology Pte. Ltd.,Smart Modular,85.71428571428571,Manual-Review,smartmodular.sg,Singapore
+SMART TECHNOLOGIES (BD) LIMITED,Smart Technologies BD Ltd. Store Room,77.77777777777779,Manual-Review,smartbd.com,Bangladesh
+Smartly.io Holding Inc,SF Holding,66.66666666666666,Manual-Review,sf-holding.fi,Finland
+SNOW SOFTWARE AB,SNOW SOFTWARE,89.65517241379311,Manual-Review,snowsoftware.com,Sweden
+Snow Software ApS,Snow Software ApS.,100.0,Auto-Accepted,snow-software.cc,Denmark
+SNOW AS,Snow Stock,67.14285714285714,Manual-Review,snowstock.no,Norway
+"SoftwareONE Co., Ltd.",SoftwareOne,60.0,Manual-Review,softwareone.digital,
+SOFTWAREONE NORWAY AS,SoftwareONE Norway,100.0,Auto-Accepted,,Norway
+SOFTWAREONE PTE. LTD.,SoftwareOne,42.30769230769231,Reject,softwareone.digital,
+SONY MOBILE COMMUNICATIONS AB,Mobile Communications Thesaurus,76.66666666666667,Manual-Review,mcab.se,Sweden
+South Pole Sweden AB,South Sweden BBQ,77.77777777777779,Manual-Review,ssbbq.se,Sweden
+Southern Cable Sdn. Bhd.,Southern Nine Sdn. Bhd.,83.72093023255815,Manual-Review,southernnine.com,Malaysia
+Splunk Inc.,Splunk,100.0,Auto-Accepted,support.splunk.psu.edu,United States
+SPORTS STAR INTERNATIONAL (PRIVATE) LTD.,Sports Star International Pvt Ltd.,100.0,Auto-Accepted,,Pakistan
+SQUARETRADE EUROPE LIMITED,SquareTrade,37.93103448275862,Reject,mercuryinsurancewarranty.com,
+SQUARETRADE LIMITED,SquareTrade,100.0,Auto-Accepted,squaretrade.uk,United Kingdom
+Starcom FZ-LLC,Starcominfo,66.66666666666666,Manual-Review,starcominfo.com,United Arab Emirates
+STARSEED TECHNOLOGIES (S) PTE. LTD.,Starseed Technologies S Pte. Ltd.,100.0,Auto-Accepted,,Singapore
+Stena Recycling Holding AB,Stena Recycling AB.,81.81818181818183,Manual-Review,,Sweden
+STORM COMMUNICATIONS AS,Storm Communications,100.0,Auto-Accepted,stormhuset.no,Norway
+SUBEX (ASIA PACIFIC) PTE. LIMITED,Subex,30.985915492957744,Reject,subex.com,India
+SUBEX (UK) LIMITED,SUBEX,38.46153846153847,Reject,subex.org,Egypt
+Sutera Utama Sdn. Bhd.,Sutera Utama Sdn. Bhd.,100.0,Auto-Accepted,sutera.my,Malaysia
+Swichtec Power Systems Sdn. Bhd.,Swichtec Power Systems,100.0,Auto-Accepted,swichtec.com.my,Malaysia
+Syarikat Takaful Malaysia Keluarga Berhad,CariTakaful.Keluarga,82.85714285714286,Manual-Review,caritakafulkeluarga.com,Malaysia
+"SYNIVERSE COMMUNICATIONS, LLC",Syniverse Sales Kickoff,50.98039215686274,Manual-Review,syniversesko.com,United States
+Systems Limited,Techvista Systems,100.0,Auto-Accepted,systemsltd.com,Pakistan
+Systemteknik af 2021 A/S,System Teknik,72.72727272727273,Manual-Review,system-teknik.dk,Denmark
+T/A POL AS,POL,66.66666666666666,Manual-Review,pol.no,Norway
+TALEND SINGAPORE PTE. LTD.,Reed Tan Digital,35.0,Reject,reedtan.com,Singapore
+Talend Sweden AB,Talend sa.,72.0,Manual-Review,investerarpengarskpj.web.app,Sweden
+Talentech ApS,Talentech Denmark,73.33333333333333,Manual-Review,talentech.dk,Denmark
+TAMPNET AS,Tampnet AS,100.0,Auto-Accepted,tampnet.com,Norway
+Tata Communications International Pte. Ltd.,TATA COMMUNICATIONS DIGO,72.1311475409836,Manual-Review,tatacommunications-ts.com,Singapore
+TATA COMMUNICATIONS INTERNATIONAL PTE. LTD.,TATA COMMUNICATIONS DIGO,72.1311475409836,Manual-Review,tatacommunications-ts.com,Singapore
+"TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",Tata Consultancy Services Chile S.A.,28.30188679245283,Reject,,Chile
+TATA CONSULTANCY SERVICES SVERIGE AB,Maryem Nasri Consultancy,46.666666666666664,Reject,retaildetailconsulting.com,Sweden
+TCT MOBILE INTERNATIONAL LTD.,Mobile Tech International HK Co Ltd.,76.92307692307693,Manual-Review,,Hong Kong
+TD SYNNEX Denmark ApS,Midtjysk Hundecenter,34.146341463414636,Reject,midtjysk-hundecenter.dk,Denmark
+TEALIUM INC.,TEALIUM,100.0,Auto-Accepted,tealium.com,United States
+"TEAM INTERNATIONAL SERVICES, INC.",TEAM International,100.0,Auto-Accepted,teaminternational.com,United States
+TECH MAHINDRA (THAILAND) COMPANY LIMITED,Vigotext,79.24528301886792,Manual-Review,vigotext.com,Thailand
+Tech Mahindra Ict Services (Malaysia) Sdn. Bhd.,tech Action,54.83870967741935,Manual-Review,techaction.com.my,Malaysia
+Tecnotree Oyj,Tecnotree,81.81818181818183,Manual-Review,tecnotree.com,Finland
+TELECOM EQUIPMENT PTE LTD,Telecom Equipment Pte Ltd.,100.0,Auto-Accepted,,Singapore
+Telekom Malaysia Berhad,Telekom Malaysia,93.02325581395348,Auto-Accepted,tm.com.my,Malaysia
+TELENOR SHARED SERVICES DENMARK A/S,Payment Services,63.63636363636363,Manual-Review,betalingsservice.dk,Denmark
+TELENOR ASA,Telenor,77.77777777777779,Manual-Review,telenor.com,Norway
+TELENOR BROADCAST HOLDING AS,Nordic Broadcast,65.3061224489796,Manual-Review,nordicbroadcast.no,Norway
+Telenor Connexion AB,Telenor Connexion,91.8918918918919,Auto-Accepted,telenorconnexion.com,Sweden
+TELENOR D.O.O. BEOGRAD,Yettel,73.33333333333333,Manual-Review,yettel.rs,Serbia
+TELENOR DANMARK HOLDING A/S,Danpor Agri Holding A/S.,66.66666666666666,Manual-Review,,Denmark
+TELENOR DIGITAL AS,Telenor Towers,62.06896551724138,Manual-Review,telenortowers.com,Norway
+TELENOR FIBER AS,Telefiber,81.81818181818183,Manual-Review,telefiber.no,Norway
+TELENOR GLOBAL SHARED SERVICES PAKISTAN (PRIVATE) LIMITED,Environmental Services Pakistan,65.71428571428571,Manual-Review,espak.com.pk,Pakistan
+TELENOR GO PTE. LTD.,Telenor Asia,61.53846153846154,Manual-Review,telenorasia.com,Singapore
+TELENOR LDI COMMUNICATIONS (PVT.) LIMITED,Telenor Franchise Brainz Communication,71.875,Manual-Review,,Pakistan
+TELENOR GLOBAL SERVICES AS,Telenor Cloud services AS,84.44444444444444,Manual-Review,,Norway
+Telenor Magyarorszag Zrt.,GegeStore,100.0,Auto-Accepted,gegestore.hu,Hungary
+TELENOR NORGE AS,Telenor Norges,96.29629629629629,Auto-Accepted,telenor.no,Norway
+TELENOR PAKISTAN,Telenor Pakistan,100.0,Auto-Accepted,telenor.com.pk,Pakistan
+TELENOR PROCUREMENT COMPANY PTE. LTD.,Telenor Inpli Singapore,44.44444444444444,Reject,,Singapore
+TELENOR REAL ESTATE AS,Real Estate AS,73.33333333333333,Manual-Review,,Norway
+Telenor Shared Services AS,Telenor Cloud services AS,80.0,Manual-Review,,Norway
+TELENOR SOFTWARE LAB AS,Telenor Software Lab AS TSL,88.88888888888889,Manual-Review,minepapir.no,Norway
+TELENOR SVALBARD AS,Svalbard,66.66666666666666,Manual-Review,svalbard.money,Norway
+TELETEAMET A/S,Teleteamet A/S.,100.0,Auto-Accepted,teleteamet.dk,Denmark
+Teliti Teknik Sdn Bhd,TELITI TEKNIK,95.45454545454545,Auto-Accepted,telititeknik.com.my,Malaysia
+Textilia Group A/S,Textilia,100.0,Auto-Accepted,textilia.dk,Denmark
+Thailife Insurance Public Company Limited,Thai Life in Germany,98.50746268656717,Auto-Accepted,thailifeingermany.com,Thailand
+SETEC CARD A/S,SETEC,33.33333333333333,Reject,setec-gmbh.at,Austria
+GEMALTO NORGE AS,Gemalto Norge AS,100.0,Auto-Accepted,,Norway
+Thales DIS Sweden AB,Thales Sverige AB.,64.86486486486487,Manual-Review,,Sweden
+TIETOEVRY NORWAY AS,TietoEVRY,72.0,Manual-Review,evrycard.no,Norway
+TIETOEVRY TECH SERVICES NORWAY AS,Tietoevry Wearables,57.14285714285714,Manual-Review,evrywear.no,Norway
+TINEX GROUP AS,TINEX Group,100.0,Auto-Accepted,tinexgroup.no,Norway
+Tm Technology Services Sdn. Bhd.,TM One,100.0,Auto-Accepted,tmone.com.my,Malaysia
+Tongyu Communication Inc.,Tongyu Communication,100.0,Auto-Accepted,tongyucom.com,China
+Tp Link International Ltd.,LINK KYC,92.3076923076923,Auto-Accepted,linkkyc.com,Hong Kong
+TPM DATA ApS,TPM Data,40.0,Reject,tpmdata.com,
+"Tradium, Erhvervsskole og - gymnasier, Randers S/I",Tradium Mariagervej Randers Kom,57.14285714285714,Manual-Review,,Denmark
+TRANSMODE SYSTEMS AB,TRANSMODE SYSTEMS AB.,100.0,Auto-Accepted,,Sweden
+TREND MICRO (SINGAPORE) PTE. LTD.,Trend Singapore West Pte Ltd.,77.55102040816327,Manual-Review,,Singapore
+Trifork A/S,Trifork Academy,100.0,Auto-Accepted,triforkacademy.dk,Denmark
+True Move H Universal Communication Co Ltd,True Move H Universal Communication Company Limited,89.74358974358975,Manual-Review,truemove-h.com,Thailand
+TRUSTZONE A/S,TRUSTZONE,100.0,Auto-Accepted,trustzone.com,Denmark
+TT DOTCOM SDN. BHD.,MPCN,81.08108108108108,Manual-Review,mpcn.asia,Malaysia
+TT-NETVAERKET P/S,TT Network,89.65517241379311,Manual-Review,tt-network.dk,Denmark
+TUTELA TECHNOLOGIES LTD.,Tutelacare,53.333333333333336,Manual-Review,tutelacare.com,Canada
+TXO SYSTEMS LTD,TXO Systems,100.0,Auto-Accepted,txo.com,United Kingdom
+UIPATH SRL,UiPath Immersion Lab,60.0,Manual-Review,uipath.ro,Romania
+Unit Trust Of Pakistan,Virtual University of Pakistan VU,58.18181818181818,Manual-Review,,Pakistan
+"UNITED INFORMATION HIGHWAY CO., LTD.",UIH,100.0,Auto-Accepted,uih.co.th,Thailand
+Ur Consult ApS,Roested,47.05882352941176,Reject,roested.dk,Denmark
+UTEL AS,Utel AS,100.0,Auto-Accepted,utel.tech,Norway
+VANTIVA TECHNOLOGIES,Vantiva,51.85185185185185,Manual-Review,vantiva.com,France
+Vertiv (Malaysia) Sdn. Bhd.,VERTIV,20.689655172413794,Reject,vertiv.cn,United States
+"VERTIV (THAILAND) CO., LTD.",Vertiv,28.57142857142857,Reject,vertiv-jp.com,Japan
+Vertiv Energy Private Limited,Vertiv Energy Private Limited,100.0,Auto-Accepted,,India
+VERTIV (SINGAPORE) PTE. LTD.,2nd phase design,27.77777777777778,Reject,2ndphasedesign.com,Singapore
+Viaplay Group AB (publ),Viaplay Group,76.47058823529412,Manual-Review,viaplaygroup.com,Sweden
+VIRTUAL WORLD (PVT.) LIMITED,Tape World,69.56521739130434,Manual-Review,tapeworld.com.pk,Pakistan
+MV-NORDIC A/S,Mv-nordic Danmark,66.66666666666666,Manual-Review,,Denmark
+VOXOGO ApS,Voxogo Aps. Store Kongensgade,100.0,Auto-Accepted,voxogo.com,Denmark
+WATCHDATA TECHNOLOGIES PTE LTD,Watchdata,51.42857142857142,Manual-Review,xunlehongbei.com,Singapore
+WATEEN SOLUTIONS (PVT.) LIMITED,Wateen electronics,70.58823529411765,Manual-Review,,Pakistan
+Waystream AB,Waystream,85.71428571428571,Manual-Review,waystream.com,Sweden
+WIDEROE AS,Widerøe Zero,73.15789473684211,Manual-Review,wideroezero.com,Norway
+Wilke Markedsanalyse A/S,Wilke A S Aarhus,50.0,Manual-Review,wilke.dk,Denmark
+WIPRO LIMITED,Wipro Limited,100.0,Auto-Accepted,,India
+WIPRO LIMITED (SINGAPORE BRANCH),Wipro Limited Singapore Branch,100.0,Auto-Accepted,,Singapore
+Wire & Wireless Co Ltd,Wire & Wireless,100.0,Auto-Accepted,ww.co.th,Thailand
+WOODLANDS TRANSPORT SOLUTIONS PTE. LTD.,Transcool,81.81818181818183,Manual-Review,transcool.com.sg,Singapore
+WORKDAY LIMITED,Workday,100.0,Auto-Accepted,workday.github.io,Ireland
+WTW REAL ESTATE SDN. BHD.,WTW Real Estate Sdn. Bhd.,100.0,Auto-Accepted,,Malaysia
+XIT SOFTWARE ApS,xIT Software,100.0,Auto-Accepted,xit-software.dk,Denmark
+Yangtze Optical Fibre And Cable Joint Stock Ltd.,Yangtze Optical Fibre and Cable Joint Stock,100.0,Auto-Accepted,yofc.com.cn,China
+YINDA TECHNOLOGY (THAILAND) COMPANY LIMITED,Yinda Infocomm,86.20689655172413,Manual-Review,yinda.co.th,Thailand
+ZALARIS HR SERVICES DANMARK A/S,Zalaris HR Services Danmark A/S.,100.0,Auto-Accepted,zalaris.dk,Denmark
+Zalaris HR Services Finland Oy,Music Aggregation Services Finland Oy.,68.65671641791045,Manual-Review,masf.fi,Finland
+ZALARIS HR SERVICES NORWAY AS,Aviation Fuelling Services Norway,64.40677966101694,Manual-Review,afsn.no,Norway
+Zalaris HR Services Sverige AB,Zalaris HR Services Sverige AB.,100.0,Auto-Accepted,zalaris.se,Sweden
+ZENDATA ApS,Zendata,100.0,Auto-Accepted,zendata.dk,Denmark
+ZHONGXING TELECOM PAKISTAN (PRIVATE) LIMITED,Lahore Warehouse pko3,100.0,Auto-Accepted,ztewarehouse.webs.com,Pakistan
+ZIFF DAVIS IRELAND LIMITED,Ziff Davis,35.714285714285715,Reject,zyzvpn.pages.dev,United States
+Zte (Malaysia) Corporation Sdn. Bhd.,ZTE,100.0,Auto-Accepted,ztedevices.com.my,Malaysia
+Zte (Thailand) Co Ltd,ZTE Thailand,100.0,Auto-Accepted,,Thailand
+Zte Corporation,ZTE Corporation Division,76.92307692307693,Manual-Review,,China
+Z.T.E. CORPORATION BANGLADESH LTD.,ZTE Corporation Bangladesh Limited,100.0,Auto-Accepted,,Bangladesh
+ZTE NORWAY AS,Bwell Norge,47.61904761904761,Reject,bwell.no,Norway
